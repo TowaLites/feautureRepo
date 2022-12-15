@@ -7,4 +7,15 @@ yum install git -y
 mkdir baigit
 cd baigit 
 git init
-vi my file "fhfjfj"
+vi my file "fhfjfj
+
+MY SECOND LINE
+vi file1
+type in ----
+git add .
+git commit -m "file"
+git add remote origin htps:fjfkdmmsd,dms
+git branch -M main 
+git branch 
+git remote -v (verify connection)
+"
