@@ -1,0 +1,2 @@
+git push origin source:destination
+git pull origin source:destination
