@@ -19,3 +19,16 @@ git branch -M main
 git branch 
 git remote -v (verify connection)
 "
+git push origin main
+check git hub account 
+git pull origin main 
+ls
+vi file 2
+git add . 
+git commit -m "2nd commit"
+git push origin main 
+git pull origin main 
+THIRD LINE
+git branch new
+git checkout new 
+
