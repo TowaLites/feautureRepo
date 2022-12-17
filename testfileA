@@ -1,0 +1,5 @@
+BRANCHES PULL/PUSH
+git push origin main:main
+git push origin main:test
+git push origin new:main
+git push origin main:test...........
